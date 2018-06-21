@@ -1256,6 +1256,15 @@ window.companies = [
         "description": "Radware (NASDAQ: RDWR), is a global leader of application delivery and application security solutions for virtual and cloud data centers. Its award-winning solutions portfolio delivers full resilience for business-critical applications, maximum IT efficiency, and complete business agility. Radwares solutions empower more than 10,000 enterprise and carrier customers worldwide to adapt to market challenges quickly, maintain business continuity and achieve maximum productivity while keeping costs down.For more information, please visit www.radware.com.Radware encourages you to join their community and follow them on: LinkedIn, Radware Blog, Twitter, YouTube and the Radware Connect app for iPhone."
     }, 
     {
+        "category": "Network Security", 
+        "name": "Radware", 
+        "twitter": "http://twitter.com/radware", 
+        "crunchbase": "https://www.crunchbase.com/organization/radware", 
+        "logo": "./logos/Radware.png", 
+        "homepage": "https://www.google.com/finance?q=NASDAQ:RDWR", 
+        "description": "Radware (NASDAQ: RDWR), is a global leader of application delivery and application security solutions for virtual and cloud data centers. Its award-winning solutions portfolio delivers full resilience for business-critical applications, maximum IT efficiency, and complete business agility. Radwares solutions empower more than 10,000 enterprise and carrier customers worldwide to adapt to market challenges quickly, maintain business continuity and achieve maximum productivity while keeping costs down.For more information, please visit www.radware.com.Radware encourages you to join their community and follow them on: LinkedIn, Radware Blog, Twitter, YouTube and the Radware Connect app for iPhone."
+    }, 
+    {
         "category": "Email Security", 
         "funding": "5.8M", 
 		"subcategory": "CDR",
